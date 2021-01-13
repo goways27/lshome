@@ -1,0 +1,96 @@
+/* font */
+
+@import url(https://fonts.googleapis.com/css?family=Nanum+Myeongjo:700|Noto+Sans+KR:300,400,500,700&display=swap);
+@import url(ko-pub-dotum.css);
+@import url(nanum-square.css);
+
+@font-face{
+	font-family:"GmarketSans";
+	font-style:normal;
+	font-weight:300;
+	src:url(./fonts/GmarketSansLight.eot),
+		url(./fonts/GmarketSansLight.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/GmarketSansLight.otf) format("opentype");
+}
+
+@font-face{
+	font-family:"GmarketSans";
+	font-style:normal;
+	font-weight:400;
+	src:url(./fonts/GmarketSansMedium.eot),
+		url(./fonts/GmarketSansMedium.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/GmarketSansMedium.otf) format("opentype");
+}
+
+@font-face{
+	font-family:"GmarketSans";
+	font-style:normal;
+	font-weight:700;
+	src:url(./fonts/GmarketSansBold.eot),
+		url(./fonts/GmarketSansBold.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/GmarketSansBold.otf) format("opentype");
+}
+
+@font-face{
+	font-family:NanumSquareOTF_acR;
+	font-weight: normal;
+	src:url(./fonts/NanumSquareOTF_acR.otf);
+}
+
+@font-face{
+	font-weight:bold;
+	font-family:NanumSquareOTF_acB;
+	src: url(./fonts/NanumSquareOTF_acB.otf);
+}
+
+@font-face{
+	font-weight: bold;
+	font-family:NanumSquareOTF_acEB;
+	src: url(./fonts/NanumSquareOTF_acEB.otf),
+	url(./fonts/NanumSquareEB.woff),
+	url(./fonts/NanumSquareEB.eot);
+}
+@font-face{
+	font-family:"NanumSquare";
+	font-style:normal;
+	font-weight:300;
+	src:local("NanumSquareL"),
+		url(./fonts/NanumSquareL.eot),
+		url(./fonts/NanumSquareL.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/NanumSquareL.woff) format("woff");
+}
+
+@font-face{
+	font-family:"NanumSquare";
+	font-style:normal;
+	font-weight:400;
+	src:local("NanumSquareR"),
+		url(./fonts/NanumSquareR.eot),
+		url(./fonts/NanumSquareR.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/NanumSquareR.woff) format("woff");
+}
+
+@font-face{
+	font-family:"NanumSquare";
+	font-style:normal;
+	font-weight:700;
+	src:local("NanumSquareB"),
+		url(./fonts/NanumSquareB.eot),
+		url(./fonts/NanumSquareB.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/NanumSquareB.woff) format("woff");
+}
+
+@font-face{
+	font-family:"NanumSquare";
+	font-style:normal;
+	font-weight: 900;
+	src:local("NanumSquareEB"),
+		url(./fonts/NanumSquareEB.eot),
+		url(./fonts/NanumSquareEB.eot?#iefix) format("embedded-opentype"),
+		url(./fonts/NanumSquareEB.woff) format("woff");
+}
+@font-face{
+	font-weight: normal;
+	font-family: EastSeaDokdo;
+	src: url(./fonts/EastSeaDokdo-Regular.ttf);
+}

@@ -1,0 +1,94 @@
+.container{
+}
+.grid-cont{
+  margin:0 auto;
+  max-width: 1060px;
+}
+.content{
+  text-align: center;
+}
+.content h1, .content h2, .content h3, .content h4{
+  font-family: "GmarketSans","NanumSquare";
+  line-height: 1.64;
+}
+.content p{
+  font-family: NanumSquareOTF_acR, "NanumSquare";
+  line-height: 1.64;
+  letter-spacing: -1px;
+  font-size: 16px;
+}
+.section1{
+  margin-top:80px;
+}
+.line{
+  display:block;
+  border-top: 2px solid #0071b6;
+  border-bottom: 2px solid #0071b6;
+  padding:30px 0 21px;
+  font-size:30px;
+  color:#0071b6;
+  margin-bottom: 80px;
+}
+.section2{
+  margin-top: 100px;
+}
+.question{
+  color:#003377;
+  margin: 71px auto 64px;
+  font-size:25px;
+}
+.interview-flx{
+  display:flex;
+  align-items: flex-start;
+  text-align: left;
+  margin:auto;
+  margin-top: 50px;
+  max-width: 900px;
+}
+.flx-txt{
+  max-width: 600px;
+  padding-left: 30px;
+  font-size:16px;
+}
+.img1{
+  margin-top: 70px;
+}
+.who{
+  text-align: left;
+  margin-left: 30px;
+}
+.grid-cont.blue-box{
+  border: 10px solid #b9e1f2;
+  max-width: 900px;
+  padding: 30px 30px 26px;
+  margin:0 auto;
+}
+.section2-3{
+  margin-top: 100px;
+}
+.shadow{
+  content: attr(title);
+  color:white;
+  text-shadow: 0px -3px 0 #0071b6, 0px 3px 0 #0071b6, 3px 0px 0 #0071b6, -3px 0px 0 #0071b6, -2px -2px 0 #0071b6, 2px -2px 0 #0071b6, -2px 2px 0 #0071b6, 2px 2px 0 #0071b6, 6px 6px 10px rgb(43, 43, 43);
+  margin:auto;
+  transform: skew(20deg);
+}
+.bluebox{
+  background-color:#1657ad;
+  display: inline-block;
+  transform: skew(-20deg);
+  padding:20px 40px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+.blue{
+  color:#003377;
+  margin:0;
+}
+.title{
+  margin: 0;
+}
+.title-txt{
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
