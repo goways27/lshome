@@ -1,0 +1,79 @@
+.sub{
+  margin:77px auto 39px;
+  text-align:center;
+}
+.grid-cont{
+  max-width:1000px;
+  margin: 0px auto;
+}
+.content h1,h2,h3,h4{
+  font-family: "GmarketSans","NanumSquare";
+}
+.content h5,p{
+  font-family: NanumSquareOTF_acR, "NanumSquare";
+  line-height: 1.64;
+}
+.content .line{
+  border-top:2px solid #0071b6;
+  border-bottom:2px solid #0071b6;
+  padding:30px 0 21px;
+  color: #0071b6;
+  line-height: 1.4;
+  display:block
+}
+.content .line span{
+  color:black;
+}
+.red{
+  color:#d80059;
+}
+.blue{
+  color:#129bc3;
+}
+.flx{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.section1 h3,.section h2{
+  font-size: 22px;
+  margin:69px 0 21px;
+  position: relative;
+  display:inline-block;
+}
+.section1 h2{
+  display:inline;
+  border-bottom:1px solid black;
+}
+.section1 .caption{
+  text-align:right;
+  margin: 77px auto 39px;
+}
+.section1 p{
+  margin:47px auto 106px;
+}
+.section1 .bdr{
+  position: absolute;
+  bottom:-5px;
+  height:22px;
+  width:100%;
+  background-color:#c8eeff;
+  left:0px;
+  z-index: -1;
+}
+
+.section2,.section2-1,.section2-2{
+  margin-top:80px;
+}
+.section2 p,.section2-2 p{
+  margin:67px auto 106px;
+}
+
+.section3 p,.section4 p{
+  margin:40px auto 60px;
+}
+.memo{
+  margin-top:100px;
+  margin-bottom:200px;
+}
